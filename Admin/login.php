@@ -107,6 +107,13 @@
                 <div class="form-group">
                     <p class="text-center mb-0">Don't have an account? <a href="#">Sign up here</a></p>
                 </div>
+
+                <div class="form-group">
+                    <p class="text-center mb-0">Don't have an account? <a href="#">Sign up here</a></p>
+                </div>
+                <div class="form-group">
+                    <p class="text-center mb-0">Don't have an account? <a href="#">Sign up here</a></p>
+                </div>
             </form>
         </div>
     </div>
